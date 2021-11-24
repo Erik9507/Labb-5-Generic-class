@@ -10,7 +10,7 @@ namespace Labb_5___Generic_class
             return x.Equals(y);            
         }
     }  
-    public class Check1<T> : Check<T>
+    public class Check1<T> : Check<T> 
     {        
     }
     public class Check2<T> : Check<T>
